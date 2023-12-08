@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=land
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ land\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=image\ dino_photo
+comment1.target=land(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ land.\r\n\ \r\n
+comment2.params=
+comment2.target=int\ gettype()
+comment3.params=
+comment3.target=java.lang.String\ getimage()
+numComments=4
