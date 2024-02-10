@@ -5,5 +5,5 @@ The final project on the greenfoot platform can be launched online on the websit
 Wait 2-3 minutes before downloading and click Run
 
 Controls:
-space - jump
+space - jump,
 shift - sit down
